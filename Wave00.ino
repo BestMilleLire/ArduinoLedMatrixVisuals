@@ -1,7 +1,9 @@
 #include "LedControl.h"
 #include <binary.h>
 
+//Size of led matrix 
 #define SIZE 8
+//Speed of animation
 #define SPEED 60
 
 LedControl lc=LedControl(12,10,11,1); 
