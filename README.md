@@ -1,4 +1,7 @@
 # Led Matrix Animation
 
 Wave
-https://www.youtube.com/watch?v=M9cBD0bVCok
+https://youtu.be/M9cBD0bVCok
+
+Random
+https://youtu.be/KJIQifBrCRM
